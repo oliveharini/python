@@ -6,4 +6,5 @@ print(year)
 pay = 1.1
 print(int(pay))
 import math
-print(math.__package__)
+print(math.sqrt(16))
+
