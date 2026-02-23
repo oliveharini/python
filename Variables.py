@@ -1,6 +1,8 @@
 name = "harini"
 print(name)
 age = 35
+age_str = str(age)
+print(age_str[0])
 print (age)
 print(type(name))
 print(type(age))
